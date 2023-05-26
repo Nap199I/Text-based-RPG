@@ -13,3 +13,12 @@ nav.navbar {
     padding: 0;
     width: 100%;
 }
+
+div.container.buttons {
+    justify-content: end;
+    padding: 5px;
+}
+
+button.btn {
+    margin: 5px;
+}
