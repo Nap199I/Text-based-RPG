@@ -25,7 +25,6 @@ button.btn {
 }
 
 button.btn:hover {
-    background-color: #117E3F;
-    border: 2px solid black;
+    background-color: #15944a;
     color: black;
 }
