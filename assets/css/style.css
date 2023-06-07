@@ -14,6 +14,15 @@ nav.navbar {
     width: 100%;
 }
 
+div.container {
+    width: auto;
+}
+
+img.logo {
+    width: 100.2px;
+    height: 60.2px;
+}
+
 div.container.buttons {
     justify-content: end;
     padding: 5px;
