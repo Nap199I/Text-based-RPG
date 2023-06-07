@@ -22,9 +22,11 @@ div.container.buttons {
 button.btn {
     margin: 5px;
     background-color: #117E3F;
+    text-shadow:;
 }
 
 button.btn:hover {
     background-color: #117E3F;
     border: 2px solid black;
+    color: black;
 }
