@@ -26,6 +26,7 @@ img.logo {
 div.container.buttons {
     justify-content: end;
     padding: 5px;
+    width: auto;
 }
 
 button.btn {
