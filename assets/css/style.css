@@ -29,15 +29,3 @@ button.btn:hover {
     border: 2px solid black;
     color: black;
 }
-
-button.btn.nav-btn:link, button.btn.nav-btn:visited {
-    background-color: #117E3F;
-    border-radius: 5px;
-    margin: 5px;
-    color: white;
-    font-weight: bold;
-    position: relative;
-    text-align: center;
-    text-decoration: none;
-    text-shadow: 0 1px 1px #444;
-}
