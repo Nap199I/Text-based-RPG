@@ -36,5 +36,35 @@ button.btn {
 
 button.btn:hover {
     background-color: #15944a;
-    color: black;
+    color: #000000;
+}
+
+/* footer */
+
+.fa-copyright {
+    content: "\f1f9";
+    padding-left: 5px;
+    color: #C39678;
+}
+
+div a.back-circle {
+    width: 35px;
+    height: 35px;
+    border-radius: 50px;
+    border: 1px solid #C39678;
+    margin: 7px;
+    background-color: #C39678;
+}
+
+div a.back-circle:hover {
+    background-color: #c4b0a3;
+    border: 1px solid #c4b0a3;
+}
+
+div a i.fa-brands {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2px;
+    color: #FF0000;
 }
