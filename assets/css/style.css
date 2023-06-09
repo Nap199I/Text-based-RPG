@@ -73,7 +73,7 @@ h5#offcanvashowtoplayLabel {
 
 .fa-copyright {
     content: "\f1f9";
-    padding-left: 5px;
+    margin: 5px 0;
     color: #000;
     text-shadow: -1px -1px 1px #fff, 1px -1px 1px #fff, -1px 1px 1px #fff, 1px 1px 1px #fff;
 }
