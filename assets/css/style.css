@@ -80,6 +80,8 @@ div a.back-circle {
     border: 1px solid #C39678;
     margin: 7px;
     background-color: #C39678;
+    display: flex;
+    justify-content: center;
 }
 
 div a.back-circle:hover {
