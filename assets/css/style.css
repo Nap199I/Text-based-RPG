@@ -45,6 +45,25 @@ button.btn:hover {
     color: #000000;
 }
 
+button.btn.nav-btn.off-btn {
+    width: 50%;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.offcanvas-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: var(--bs-offcanvas-padding-y) var(--bs-offcanvas-padding-x);
+}
+
+h5#offcanvashowtoplayLabel {
+    text-decoration: underline;
+}
+
 /* footer */
 
 .fa-copyright {
