@@ -30,18 +30,18 @@ div.container.buttons {
 }
 
 div.container.buttons p {
-    color: #C39678;
-    text-shadow: -1px -1px 1px #000, 1px -1px 1px #000, -1px 1px 1px #000, 1px 1px 1px #000;
+    color: #000;
+    text-shadow: -1px -1px 1px #fff, 1px -1px 1px #fff, -1px 1px 1px #fff, 1px 1px 1px #fff;
     margin: 0;
 }
 
 button.btn {
     margin: 5px;
-    background-color: #117E3F;
+    background-color: #219b54;
 }
 
 button.btn:hover {
-    background-color: #15944a;
+    background-color: #66c08b;
     color: #000000;
 }
 
@@ -50,8 +50,8 @@ button.btn:hover {
 .fa-copyright {
     content: "\f1f9";
     padding-left: 5px;
-    color: #C39678;
-    text-shadow: -1px -1px 1px #000, 1px -1px 1px #000, -1px 1px 1px #000, 1px 1px 1px #000;
+    color: #000;
+    text-shadow: -1px -1px 1px #fff, 1px -1px 1px #fff, -1px 1px 1px #fff, 1px 1px 1px #fff;
 }
 
 div a.back-circle {
