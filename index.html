@@ -23,7 +23,30 @@
                 </a>
             </div>
             <div class="container buttons">
-                <button type="button" class="btn nav-btn"><p>How to play</p></button>
+                <button class="btn nav-btn" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvashowtoplay" aria-controls="offcanvashowtoplay">
+                    <p>How to play</p>
+                  </button>
+                  <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvashowtoplay" aria-labelledby="offcanvashowtoplayLabel">
+                    <button type="button" class="btn nav-btn off-btn" data-bs-dismiss="offcanvas" aria-label="Close"><P>Close</P></button>
+                    <div class="offcanvas-header">
+                        <h5 class="offcanvas-title" id="offcanvashowtoplayLabel">Information and How To Play</h5>
+                    </div>
+                    <div class="offcanvas-body">
+                      <div>
+                        <p>Thank you for Playing this text-based game I hope you enjoy it.</p>
+                        <br>
+                        <p>As you read through this story you will be presented with a series of choices, these choices that
+                        are presented will have a different effect on the story as a whole and will tell you which page to 
+                        turn to so you may continue along your selected story line.</p>
+                        <br>
+                        <p>Writing the story this way gives you as the reader / player the power to steer the story in which 
+                        ever direction you deem fit.</p>
+                        <br>
+                        <p>(Disclaimer – any story lines that involve sexism are not my own views they pertain to medieval 
+                        views on gender roles which have come about by offering the choice of sex for the character.)</p>
+                      </div>
+                    </div>
+                  </div>
                 <a href="contact.html" rel="noopener noreferrer">
                     <button type="button" class="btn nav-btn"><p>Contact</p></button>
                 </a>
