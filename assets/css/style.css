@@ -66,6 +66,11 @@ h5#offcanvashowtoplayLabel {
 
 /* footer */
 
+.d-flex.flex-row.justify-content-around.footer-box {
+    background-color: #FF0000;
+}
+
+
 .fa-copyright {
     content: "\f1f9";
     padding-left: 5px;
