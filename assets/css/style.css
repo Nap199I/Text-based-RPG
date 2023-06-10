@@ -65,6 +65,28 @@ h5#offcanvashowtoplayLabel {
     text-decoration: underline;
 }
 
+/* main section home page  */
+
+section.home-page {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(../images/Castle.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* main section game page  */
+
+section.game-page {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(../images/game-screen-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
 /* main section contact page  */
 
 section.contact-page {
