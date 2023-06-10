@@ -20,7 +20,7 @@ div.container {
 
 img.logo {
     width: auto;
-    height: 60.2px;
+    height: 81.2px;
     margin: 5px;
 }
 
@@ -80,14 +80,15 @@ h5#offcanvashowtoplayLabel {
 }
 
 div a.back-circle {
-    width: 35px;
-    height: 35px;
+    width: 45px;
+    height: 45px;
     border-radius: 50px;
     border: 1px solid #C39678;
     margin: 7px;
     background-color: #C39678;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 div a.back-circle:hover {
