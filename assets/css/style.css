@@ -33,6 +33,7 @@ img.logo {
 
 div.container.buttons {
     justify-content: end;
+    flex-direction: column;
     padding: 5px;
     width: auto;
 }
@@ -167,6 +168,10 @@ div a i.fa-brands {
     
     nav.navbar {
         justify-content: center;
+    }
+
+    div.container.buttons {
+        flex-direction: row;
     }
 
 }
