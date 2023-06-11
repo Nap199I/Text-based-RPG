@@ -1,3 +1,10 @@
+/* general styles */
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
 /* nav */
 
 nav.navbar {
@@ -30,15 +37,12 @@ div.container.buttons {
     width: auto;
 }
 
-div.container.buttons p {
-    color: #000;
-    text-shadow: -1px -1px 1px #fff, 1px -1px 1px #fff, -1px 1px 1px #fff, 1px 1px 1px #fff;
-    margin: 0;
-}
-
 button.btn {
     margin: 5px;
     background-color: #219b54;
+    color: #000;
+    font-weight: 600;
+    text-shadow: -1px -1px 1px #fff, 1px -1px 1px #fff, -1px 1px 1px #fff, 1px 1px 1px #fff;
 }
 
 button.btn:hover {
@@ -71,7 +75,6 @@ section.home-page {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100vw;
     height: 100vh;
     background-image: url(../images/Castle.jpg);
     background-repeat: no-repeat;
