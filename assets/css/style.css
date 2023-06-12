@@ -115,7 +115,11 @@ section.game-page {
 /* main section contact page  */
 
 section.contact-page {
-    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: auto;
     height: 100vh;
     background-image: url(../images/parchment.jpg);
     background-repeat: no-repeat;
