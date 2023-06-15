@@ -1,4 +1,6 @@
 function sendMail(contactForm) {
+    let submitBtn = document.getElementById("contact-submit");
+    submitBtn.disabled = true;
     emailjs.send("service_6wyu69h", "template_q2fpeth", {
         "from_name": contactForm.name.value,
         "from_email": contactForm.email.value,
@@ -11,6 +13,7 @@ function sendMail(contactForm) {
         },
         function(error) {
             console.log("FAILED", error);
+            submitBtn.disabled = false;
         });
         return false;
 }
