@@ -1,5 +1,14 @@
 /* general styles */
 
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
 p {
     margin: 0;
     padding: 0;
@@ -110,6 +119,24 @@ section.game-page {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section div.game-container {
+    background-color: #fff;
+    width: 800px;
+    max-width: 80%;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px 2px; /* 0=x offset 0=y offset 10px = blur 2px = spread */
+}
+
+.btn-grid {
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    margin-top: 20px;
 }
 
 /* main section contact page  */
