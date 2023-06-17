@@ -110,6 +110,11 @@ h2.home-subtitle.home-head {
     text-shadow: -1px -1px 1px #fff, 1px -1px 1px #fff, -1px 1px 1px #fff, 1px 1px 1px #fff;
 }
 
+p.s-button {
+    font-size: 180%;
+    padding: 5px 30px;
+}
+
 /* main section game page  */
 
 section.game-page {
@@ -144,7 +149,7 @@ section div.game-container {
 section.contact-page {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
     width: auto;
     height: 100vh;
@@ -154,10 +159,16 @@ section.contact-page {
     background-position: center bottom;
 }
 
+h1.contact-header {
+    font-weight: bold;
+    font-size: 300%;
+}
+
 /* main section confirmation page  */
 
 section.confirmation-page {
     display: flex;
+    justify-content: space-evenly;
     flex-direction: column;
     align-items: center;
     max-width: 100%;
@@ -170,11 +181,14 @@ section.confirmation-page {
 
 h1.confirmation-header {
     margin: 30px;
+    font-size: 167%;
+    font-weight: bold;
     margin-top: 16%;
 }
 
 .email-message {
     margin: 10px;
+    font-size: 140%;
 }
 
 /* footer */
@@ -226,6 +240,10 @@ div a i.fa-brands {
 
     div.container.buttons {
         flex-direction: row;
+    }
+
+    input#formInput1 {
+        width: 50vw;
     }
 
 }
