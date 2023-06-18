@@ -247,6 +247,264 @@ const textNodes = [
             },
         ]
     },
+    {
+        id: 10,
+        title: "The family trade",
+        text: "When you tell your parents that you want to apprentice with your father there is an awkward silence, they explain to you that it is not considered proper for a girl to work in a blacksmith shop because women are considered to do work of worse quality, the way women became blacksmiths was to marry a blacksmith and then help their husbands. Although you understand what your parents are saying you are a strong young woman with your own thoughts and opinions on what is proper and right. Because of your father’s love for you and your enthusiasm to follow in the family business he agrees to let you apprentice with him in the back where you cannot be seen. You seem to have a gift for blacksmithing as business picks up and the shops reputation grows to new heights, as the shop becomes more and more busy it becomes harder and harder to keep you out of sight. One day you are spotted working in the back at the forge. What do you do?",
+        options: [
+            {
+                text: "Pretend to be just visiting.",
+                nextText: 24
+            },
+            {
+                text: "HIDE!",
+                nextText: 25
+            },
+            {
+                text: "Demand to know why the customer is poking around the back?",
+                nextText: 26
+            },
+            {
+                text: "shout 'THIEF!'",
+                nextText: 27
+            },
+            {
+                text: "Pick up a nearby sword and kill them!",
+                nextText: 28
+            },
+            {
+                text: "The time for hiding is over, come out and tell everyone that your the reason for the shops new reputation.",
+                nextText: 29
+            }
+        ]
+    },
+    {
+        id: 11,
+        title: "The family trade",
+        text: "When you tell your parents that you want to apprentice with your father there is an awkward silence, they explain to you that it is not considered proper for a girl to work in a blacksmith shop because women are considered to do work of worse quality, the way women became blacksmiths was to marry a blacksmith and then help their husbands. Although you understand what your parents are saying you are a strong young woman with your own thoughts and opinions on what is proper and right. Because of your father’s love for you and your enthusiasm to follow in the family business he agrees to let you apprentice with him in the back where you cannot be seen. You seem to have a gift for blacksmithing as business picks up and the shops reputation grows to new heights, as the shop becomes more and more busy it becomes harder and harder to keep you out of sight. One day you are spotted working in the back at the forge. What do you do?",
+        options: [
+            {
+                text: "Pretend to be just visiting.",
+                nextText: 24
+            },
+            {
+                text: "HIDE!",
+                nextText: 25
+            },
+            {
+                text: "Demand to know why the customer is poking around the back?",
+                nextText: 26
+            },
+            {
+                text: "shout 'THIEF!'",
+                nextText: 27
+            },
+            {
+                text: "Pick up a nearby sword and kill them!",
+                nextText: 28
+            },
+            {
+                text: "The time for hiding is over, come out and tell everyone that your the reason for the shops new reputation.",
+                nextText: 29
+            }
+        ]
+    },
+    {
+        id: 12,
+        title: "The military smith",
+        text: "As you come from a well-respected family your father (who is now a commander in the king’s army) goes to the king and requests for you to apprentice with the royal smith, his request is granted by the king for his years of faithful service.\nYou spend the next couple of years learning the trade from the best smith in the kingdom, despite this you do not make much progression as the man is arrogant, narcissistic and won’t let you do much, he says that you will damage the reputation of his business.\nWhat do you do?",
+        options: [
+            {
+                text: "Quit!",
+                nextText: 24
+            },
+            {
+                text: "Kill him!",
+                nextText: 25
+            },
+            {
+                text: "Ask why he accepted if he wasn’t going to teach you?",
+                nextText: 26
+            },
+            {
+                text: "Sabotage his business",
+                nextText: 27
+            },
+            {
+                text: "Tell your father",
+                nextText: 28
+            },
+        ]
+    },
+    {
+        id: 13,
+        title: "Out on my own!",
+        text: "Your mother and father start laughing when you tell them that you want to apprentice as a smith thinking that you were joking, when it becomes apparent that you are serious their smiles disappear.\nThey explain to you that it is not considered proper for a girl to work in a blacksmith shop because women are considered to do work of worse quality, the way women became blacksmiths was to marry a blacksmith and then help their husbands.\nYou have a huge argument with your parents as you believe you should be able to do what ever you want to do regardless of gender and state that you do not want to marry ….. yet, resulting from the argument you find yourself now kicked out and disowned as you would not concede your point.\nIn an attempt to prove your parents wrong you walk around the multiple blacksmith shops in the kingdom asking to apprentice with them.\nUnfortunately, almost every one laughed harder than your parents and told you to get lost or to have some common sense go and find a guy to marry, one blacksmith who knew who your father was did say if you came back with your father, it could be arranged for you to marry his son.\nWith it now getting late feeling deflated and embarrassed from being the butt of everyone’s jokes all day you find yourself thinking about what to do next.\nWhat do you do?",
+        options: [
+            {
+                text: "Go back to your parents and apologise",
+                nextText: 24
+            },
+            {
+                text: "Find somewhere to sleep for the night",
+                nextText: 25
+            },
+            {
+                text: "Continue looking into the night",
+                nextText: 26
+            },
+            {
+                text: "Head to the next kingdom",
+                nextText: 27
+            },
+        ]
+    },
+    {
+        id: 14,
+        title: "The family trade",
+        text: "When you tell your parents that you want to apprentice with your father there is an awkward silence, they explain to you that it is not considered proper for a girl to work in a blacksmith shop because women are considered to do work of worse quality, the way women became blacksmiths was to marry a blacksmith and then help their husbands. Although you understand what your parents are saying you are a strong young woman with your own thoughts and opinions on what is proper and right. Because of your father’s love for you and your enthusiasm to follow in the family business he agrees to let you apprentice with him in the back where you cannot be seen. You seem to have a gift for blacksmithing as business picks up and the shops reputation grows to new heights, as the shop becomes more and more busy it becomes harder and harder to keep you out of sight. One day you are spotted working in the back at the forge. What do you do?",
+        options: [
+            {
+                text: "Pretend to be just visiting.",
+                nextText: 24
+            },
+            {
+                text: "HIDE!",
+                nextText: 25
+            },
+            {
+                text: "Demand to know why the customer is poking around the back?",
+                nextText: 26
+            },
+            {
+                text: "shout 'THIEF!'",
+                nextText: 27
+            },
+            {
+                text: "Pick up a nearby sword and kill them!",
+                nextText: 28
+            },
+            {
+                text: "The time for hiding is over, come out and tell everyone that your the reason for the shops new reputation.",
+                nextText: 29
+            }
+        ]
+    },
+    {
+        id: 15,
+        title: "The royal smith",
+        text: "The nurse looks shocked at your choice, first thing in the morning you both go to your father the king and tell him what you have decided.\nAs you are not the oldest or an only child your father thinks it is a great idea and commissions you your own forge, realising that you don’t know how to work it yet he also hires the best smith in the kingdom to come and teach you his trade.\nAfter a couple of years the tutor goes back to his own forge and leaves you to your business, you are now the royal smith, getting to do exactly what you wanted and run your very own business you end up taking a spouse having 3.5 kids and living happily ever after.",
+        options: [
+            {
+                text: "Restart, Congratulations on having a silver spoon",
+                nextText: -1
+            },
+        ]
+    },
+    {
+        id: 16,
+        title: "Your royal Laziness",
+        text: "Your nurse looks disappointed and tries to explain the value in doing something with your life that could contribute to the world and leaving a legacy but after a while she can see that her words are falling on deaf ears, before leaving your room she apologises for failing you although you don’t understand why she is apologising she leaves before you can say anything.\nYou live out the rest of your days in a remarkably unremarkable existence, as you watch the world pass you by you begin to understand what your nurse said, you have a lonely life, despite being royalty you cannot land yourself a spouse because you are known as the lazy royal.\nYou have no legacy, no children, no job and no life you end up becoming depressed as you realise that you should have at least tried to succeed. As you lie on your death bed you look around for comfort, no one is there, not even your parents, it took you a lifetime but you realise that anything worth doing isn’t easy.",
+        options: [
+            {
+                text: "Restart, next time dont be so lazy!",
+                nextText: -1
+            },
+        ]
+    },
+    {
+        id: 17,
+        title: "The family trade",
+        text: "When you tell your parents that you want to apprentice with your father there is an awkward silence, they explain to you that it is not considered proper for a girl to work in a blacksmith shop because women are considered to do work of worse quality, the way women became blacksmiths was to marry a blacksmith and then help their husbands. Although you understand what your parents are saying you are a strong young woman with your own thoughts and opinions on what is proper and right. Because of your father’s love for you and your enthusiasm to follow in the family business he agrees to let you apprentice with him in the back where you cannot be seen. You seem to have a gift for blacksmithing as business picks up and the shops reputation grows to new heights, as the shop becomes more and more busy it becomes harder and harder to keep you out of sight. One day you are spotted working in the back at the forge. What do you do?",
+        options: [
+            {
+                text: "Pretend to be just visiting.",
+                nextText: 24
+            },
+            {
+                text: "HIDE!",
+                nextText: 25
+            },
+            {
+                text: "Demand to know why the customer is poking around the back?",
+                nextText: 26
+            },
+            {
+                text: "shout 'THIEF!'",
+                nextText: 27
+            },
+            {
+                text: "Pick up a nearby sword and kill them!",
+                nextText: 28
+            },
+            {
+                text: "The time for hiding is over, come out and tell everyone that your the reason for the shops new reputation.",
+                nextText: 29
+            }
+        ]
+    },
+    {
+        id: 18,
+        title: "The family trade",
+        text: "When you tell your parents that you want to apprentice with your father there is an awkward silence, they explain to you that it is not considered proper for a girl to work in a blacksmith shop because women are considered to do work of worse quality, the way women became blacksmiths was to marry a blacksmith and then help their husbands. Although you understand what your parents are saying you are a strong young woman with your own thoughts and opinions on what is proper and right. Because of your father’s love for you and your enthusiasm to follow in the family business he agrees to let you apprentice with him in the back where you cannot be seen. You seem to have a gift for blacksmithing as business picks up and the shops reputation grows to new heights, as the shop becomes more and more busy it becomes harder and harder to keep you out of sight. One day you are spotted working in the back at the forge. What do you do?",
+        options: [
+            {
+                text: "Pretend to be just visiting.",
+                nextText: 24
+            },
+            {
+                text: "HIDE!",
+                nextText: 25
+            },
+            {
+                text: "Demand to know why the customer is poking around the back?",
+                nextText: 26
+            },
+            {
+                text: "shout 'THIEF!'",
+                nextText: 27
+            },
+            {
+                text: "Pick up a nearby sword and kill them!",
+                nextText: 28
+            },
+            {
+                text: "The time for hiding is over, come out and tell everyone that your the reason for the shops new reputation.",
+                nextText: 29
+            }
+        ]
+    },
+    {
+        id: 19,
+        title: "The family trade",
+        text: "When you tell your parents that you want to apprentice with your father there is an awkward silence, they explain to you that it is not considered proper for a girl to work in a blacksmith shop because women are considered to do work of worse quality, the way women became blacksmiths was to marry a blacksmith and then help their husbands. Although you understand what your parents are saying you are a strong young woman with your own thoughts and opinions on what is proper and right. Because of your father’s love for you and your enthusiasm to follow in the family business he agrees to let you apprentice with him in the back where you cannot be seen. You seem to have a gift for blacksmithing as business picks up and the shops reputation grows to new heights, as the shop becomes more and more busy it becomes harder and harder to keep you out of sight. One day you are spotted working in the back at the forge. What do you do?",
+        options: [
+            {
+                text: "Pretend to be just visiting.",
+                nextText: 24
+            },
+            {
+                text: "HIDE!",
+                nextText: 25
+            },
+            {
+                text: "Demand to know why the customer is poking around the back?",
+                nextText: 26
+            },
+            {
+                text: "shout 'THIEF!'",
+                nextText: 27
+            },
+            {
+                text: "Pick up a nearby sword and kill them!",
+                nextText: 28
+            },
+            {
+                text: "The time for hiding is over, come out and tell everyone that your the reason for the shops new reputation.",
+                nextText: 29
+            }
+        ]
+    },
 ]
 
 startGame()
