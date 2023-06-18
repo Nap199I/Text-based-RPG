@@ -153,6 +153,10 @@ section div.game-container {
     box-shadow: 0 0 10px 2px; /* 0=x offset 0=y offset 10px = blur 2px = spread */
 }
 
+h1#game {
+    text-decoration: underline;
+}
+
 .btn-grid {
     display: grid;
     grid-template-columns: repeat(2,auto);
