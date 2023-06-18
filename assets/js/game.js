@@ -1,4 +1,5 @@
 const textElement = document.getElementById("text")
+const titleElement = document.getElementById("game")
 const optionButtonsElement = document.getElementById("option-buttons")
 
 let state = {}
@@ -11,6 +12,7 @@ function startGame() {
 function showTextNode(textNodeIndex) {
     const textNode = textNodes.find(textNode => textNode.id === textNodeIndex)
     textElement.innerText = textNode.text
+    titleElement.innerText = textNode.title
     while (optionButtonsElement.firstChild) {
         optionButtonsElement.removeChild(optionButtonsElement.firstChild)
     }
@@ -42,6 +44,7 @@ function selectOption(option) {
 const textNodes = [
     {
         id: 1,
+        title: "Your Beginning",
         text: "It is a cold, damp and dark night in the town of Lilly-River, most of the town is silent as the inhabitants are sleeping, there is only the odd flicker of an amber light from the candles in the windows of the night owls. Unfortunately for the residents your mother has gone into labour. Soon the silence is broken by the screams of labour, the town midwife had burst through the door with your father who had then been kicked out by the very same midwife he ran to get. The labour is long and exhausting but finally you arrive in the world, a strong and healthy young:",
         options: [
             {
@@ -58,6 +61,7 @@ const textNodes = [
     },
     {
         id: 2,
+        title: "It's a boy!",
         text: "Congratulations you’re a Healthy baby boy, you have dark hair, dark eyes and your parents name you Jacob. What do your parents do for a living?",
         options: [
             {
@@ -76,6 +80,7 @@ const textNodes = [
     },
     {
         id: 3,
+        title: "It's a girl!",
         text: "Congratulations you’re a Healthy baby girl, you have dark hair, dark eyes and your parents name you Rose. What do your parents do for a living?",
         options: [
             {
@@ -94,6 +99,7 @@ const textNodes = [
     },
     {
         id: 4,
+        title: "The smithing trade",
         text: "The early years of your life are filled with love and laughter, your mother stayed home to raise you while your father works hard at his forge to bring a decent income so you and your mother may live a comfortable life. Your parents sit you down over Supper and talk to you about starting to pitch in and where you want to go in life. What is your reply?",
         options: [
             {
@@ -122,6 +128,7 @@ const textNodes = [
     },
     {
         id: 5,
+        title: "The military family",
         text: "The early years of your life are a little lonely with your father being gone most of the time either training or fighting in wars and disputes between royalty, the loneliness was not as bad as it could have been though as your mother stayed home to raise you and when your father was home you have a lot of fun memories playing with wooden swords, as you got older this playing turned slightly more serious as the swords turned from wood to metal. Your parents sit you down over Supper on an evening that your father was home and talk to you about starting to pitch in and where you want to go in life. What is your reply?",
         options: [
             {
@@ -150,6 +157,7 @@ const textNodes = [
     },
     {
         id: 6,
+        title: "The monarchy",
         text: "The early years of your life are very comfortable with servants, nurses and house maids catering to your every whim, you don’t have much of a relationship with your parents as they were busy running the kingdom. You feel like your real family are your tutors and the castle staff that had raised you, although you are well educated and one of the best with a sword in the kingdom you cannot help but harbour slight resentment for the king and queen. Your nurse sits you down one evening to discuss where you want to go in life. What is your reply?",
         options: [
             {
@@ -176,6 +184,7 @@ const textNodes = [
     },
     {
         id: 7,
+        title: "The family trade",
         text: "You spend the next couple of years learning and plying your fathers trade, it would seem that you have a gift for it and when word gets around that you are such a talented smith you soon start getting all the business in the town. With things going so well and the reputation of your smithing becoming almost legendary your father declares you a full smith, as a congratulation / graduation present he has offered you a partnership in his business, he has said he will partially retire taking half the week off to ease you into taking over. What do you do?",
         options: [
             {
@@ -198,6 +207,7 @@ const textNodes = [
     },
     {
         id: 8,
+        title: "The family trade",
         text: "When you tell your parents that you want to apprentice with your father there is an awkward silence, they explain to you that it is not considered proper for a girl to work in a blacksmith shop because women are considered to do work of worse quality, the way women became blacksmiths was to marry a blacksmith and then help their husbands. Although you understand what your parents are saying you are a strong young woman with your own thoughts and opinions on what is proper and right. Because of your father’s love for you and your enthusiasm to follow in the family business he agrees to let you apprentice with him in the back where you cannot be seen. You seem to have a gift for blacksmithing as business picks up and the shops reputation grows to new heights, as the shop becomes more and more busy it becomes harder and harder to keep you out of sight. One day you are spotted working in the back at the forge. What do you do?",
         options: [
             {
@@ -228,6 +238,7 @@ const textNodes = [
     },
     {
         id: 9,
+        title: "Pure laziness",
         text: "Needless to say your parents are less than thrilled to have an idol child that they will need to support for the rest of your life, they decide that this is not the way forward for them. The next day you find all your stuff had been packed up while you slept, your parents are kicking you out of their house. You might have been able to recover from this but you just can’t be bothered, you find a nice little nook away from prying eyes that has the least foot traffic and set up a makeshift bed. Unfortunately that night was particularly cold and the next morning you are found frozen solid in your makeshift bed you get the sense that anything worth doing isn’t easy.",
         options: [
             {
