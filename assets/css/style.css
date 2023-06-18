@@ -146,6 +146,8 @@ section div.game-container {
     background-color: #fff;
     width: 800px;
     max-width: 80%;
+    max-height: 80%;
+    overflow: scroll;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 0 10px 2px; /* 0=x offset 0=y offset 10px = blur 2px = spread */
