@@ -249,31 +249,31 @@ const textNodes = [
     },
     {
         id: 10,
-        title: "The family trade",
-        text: "When you tell your parents that you want to apprentice with your father there is an awkward silence, they explain to you that it is not considered proper for a girl to work in a blacksmith shop because women are considered to do work of worse quality, the way women became blacksmiths was to marry a blacksmith and then help their husbands. Although you understand what your parents are saying you are a strong young woman with your own thoughts and opinions on what is proper and right. Because of your father’s love for you and your enthusiasm to follow in the family business he agrees to let you apprentice with him in the back where you cannot be seen. You seem to have a gift for blacksmithing as business picks up and the shops reputation grows to new heights, as the shop becomes more and more busy it becomes harder and harder to keep you out of sight. One day you are spotted working in the back at the forge. What do you do?",
+        title: "Smithson to join the military",
+        text: "Being as your father had good relations with the royals due to his work he manages to get you into the military as you wished.\nOn your first day of training you turn up eager to impress, being a smiths son you are a big, strong young man and feel like you will really flourish here.\nThe guard captain approaches you and says ‘you are the new recruit right? Ok then report to the duty watchman for city patrol’.\nWhat do you do?",
         options: [
             {
-                text: "Pretend to be just visiting.",
+                text: "Say ‘yes sir’ and report to the duty watchman",
                 nextText: 24
             },
             {
-                text: "HIDE!",
+                text: "Tell him that just being a watchman is beneath you",
                 nextText: 25
             },
             {
-                text: "Demand to know why the customer is poking around the back?",
+                text: "Ask him to do combat training instead",
                 nextText: 26
             },
             {
-                text: "shout 'THIEF!'",
+                text: "Tell him that there has been a mistake you are not here to be a watchman",
                 nextText: 27
             },
             {
-                text: "Pick up a nearby sword and kill them!",
+                text: "Ask for a premotion",
                 nextText: 28
             },
             {
-                text: "The time for hiding is over, come out and tell everyone that your the reason for the shops new reputation.",
+                text: "Challenge him to a fight to show off your skills",
                 nextText: 29
             }
         ]
@@ -361,33 +361,25 @@ const textNodes = [
     },
     {
         id: 14,
-        title: "The family trade",
-        text: "When you tell your parents that you want to apprentice with your father there is an awkward silence, they explain to you that it is not considered proper for a girl to work in a blacksmith shop because women are considered to do work of worse quality, the way women became blacksmiths was to marry a blacksmith and then help their husbands. Although you understand what your parents are saying you are a strong young woman with your own thoughts and opinions on what is proper and right. Because of your father’s love for you and your enthusiasm to follow in the family business he agrees to let you apprentice with him in the back where you cannot be seen. You seem to have a gift for blacksmithing as business picks up and the shops reputation grows to new heights, as the shop becomes more and more busy it becomes harder and harder to keep you out of sight. One day you are spotted working in the back at the forge. What do you do?",
+        title: "Daddies little soldier",
+        text: "Your father being a commander decides to keep you where he can see you.\nYou get your wish to join the military, however you go in as his second in command jumping a lot of hard work.\nThis creates some animosity and resentment amongst the troops, you have jumped them just because of who your father is, you lack the respect of the soldiers.\nWhat do you do?",
         options: [
             {
-                text: "Pretend to be just visiting.",
+                text: "Enforce your authority, demand respect and reprimand anyone that disobeys",
                 nextText: 24
             },
             {
-                text: "HIDE!",
+                text: "Throw a party to get to know your men",
                 nextText: 25
             },
             {
-                text: "Demand to know why the customer is poking around the back?",
+                text: "Talk your father into a training exercise for bonding",
                 nextText: 26
             },
             {
-                text: "shout 'THIEF!'",
+                text: "Quit as this isnt what i wanted",
                 nextText: 27
             },
-            {
-                text: "Pick up a nearby sword and kill them!",
-                nextText: 28
-            },
-            {
-                text: "The time for hiding is over, come out and tell everyone that your the reason for the shops new reputation.",
-                nextText: 29
-            }
         ]
     },
     {
@@ -414,33 +406,13 @@ const textNodes = [
     },
     {
         id: 17,
-        title: "The family trade",
-        text: "When you tell your parents that you want to apprentice with your father there is an awkward silence, they explain to you that it is not considered proper for a girl to work in a blacksmith shop because women are considered to do work of worse quality, the way women became blacksmiths was to marry a blacksmith and then help their husbands. Although you understand what your parents are saying you are a strong young woman with your own thoughts and opinions on what is proper and right. Because of your father’s love for you and your enthusiasm to follow in the family business he agrees to let you apprentice with him in the back where you cannot be seen. You seem to have a gift for blacksmithing as business picks up and the shops reputation grows to new heights, as the shop becomes more and more busy it becomes harder and harder to keep you out of sight. One day you are spotted working in the back at the forge. What do you do?",
+        title: "Royal perks",
+        text: "As your father is the king, when he hears that you want to be a part of his military he agrees.\nIt is by royal decree that you are to learn from his military advisor, an apprentice of sorts as he is getting on in age he will be retiring soon for you to step into his place.\nYou get your wish and then some you are not just part of the military, you are at the top of it just under the king liaising between the two and commanding the military in your fathers absence.\nYou live a long happy and wealthy life ending up with you taking a spouse having 3.5 kids and living happily ever after.",
         options: [
             {
-                text: "Pretend to be just visiting.",
-                nextText: 24
+                text: "Restart, Congratulations on having a silver spoon",
+                nextText: -1
             },
-            {
-                text: "HIDE!",
-                nextText: 25
-            },
-            {
-                text: "Demand to know why the customer is poking around the back?",
-                nextText: 26
-            },
-            {
-                text: "shout 'THIEF!'",
-                nextText: 27
-            },
-            {
-                text: "Pick up a nearby sword and kill them!",
-                nextText: 28
-            },
-            {
-                text: "The time for hiding is over, come out and tell everyone that your the reason for the shops new reputation.",
-                nextText: 29
-            }
         ]
     },
     {
