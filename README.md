@@ -15,27 +15,9 @@ The intended audience for this project are as follows:
 Here is the link to my [live site](https://nap199i.github.io/Text-based-RPG/).  
 Here's the [am i responsive](https://ui.dev/amiresponsive?url=https://nap199i.github.io/Text-based-RPG) site for my project.
 
-Screenshots for the README and testing should not be inside of `assets/` or `static/` image folders.
-(reminder: `assets/` and `static/` are for files used on the live site, not documentation)
-Consider adding a new folder called `documentation`, and add the amiresponsive screenshot inside of that folder.
-To add the image into your README, use this format:
-(assuming you have a new folder called `documentation` with an image called "mockup.png")
-
-![screenshot](documentation/mockup.png)
-
-Note: Markdown files (.md) should not contain HTML elements like `img`, `br`, `div`, `a`, etc, only Markdown formatting.
-Find out more about using Markdown elements here:
-https://pandao.github.io/editor.md/en.html
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
 ## UX
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-In this section, you will briefly explain your design processes.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+My UX process was again to go through a microsoft document that I have made previously, it takes me through the five planes of UX. I also had to really think about what would be important to me as the owner, operator, developer and as a user, my goal for the site was to decide who i would want to use it, what the purpose of the site was, the color schemes, what i wanted for the initial release and things that I may want to add in later releases.
 
 ### Colour Scheme
 
