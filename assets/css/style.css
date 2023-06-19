@@ -15,16 +15,19 @@ body {
 
 h1, .h1 {
     font-family: "libre baskerville", sans-serif;
+    color: #000;
 }
 
 h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     font-family: "roboto", sans-serif;
+    color: #000;
 }
 
 .text, p {
     font-family: "montserrat", sans-serif;
     margin: 0;
     padding: 0;
+    color: #000;
 }
 
 /* nav */
@@ -181,6 +184,11 @@ section.contact-page {
 h1.contact-header {
     font-weight: bold;
     font-size: 300%;
+}
+
+.form-label {
+    margin-bottom: 0.5rem;
+    color: #000;
 }
 
 /* main section confirmation page  */
