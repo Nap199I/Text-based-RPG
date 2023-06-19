@@ -11,9 +11,9 @@ The intended audience for this project are as follows:
 * Teen
 * anyone that likes games set in medieval times
 
-Consider adding a mockup image using the "Am I Responsive" website.
-Here's your deployed site as an example:
-https://ui.dev/amiresponsive?url=https://nap199i.github.io/Text-based-RPG
+![screenshot](documentation/readme/am-i-responsive.jpg)  
+Here is the link to my [live site](https://nap199i.github.io/Text-based-RPG/).  
+Here's the [am i responsive](https://ui.dev/amiresponsive?url=https://nap199i.github.io/Text-based-RPG) site for my project.
 
 Screenshots for the README and testing should not be inside of `assets/` or `static/` image folders.
 (reminder: `assets/` and `static/` are for files used on the live site, not documentation)
