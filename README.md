@@ -23,7 +23,7 @@ My UX process was again to go through a microsoft document that I have made prev
 
 The idea behind the color scheme used was wanting to use red, green and white the colors on the welsh flag however I had to use some other colors also for text and social icons to make the scheme work.
 
-- `#000` used for primary text and content titles.
+- `#000000` used for primary text and content titles.
 - `#ed1d23` used for nav and footer backgrounds and inside social icons.
 - `#219b54` used for the background color of the buttons.
 - `#66c08b` used for the hover effect color of the buttons.
