@@ -1,14 +1,15 @@
-# TEXT BASED RPG
+# TEXT BASED RPG - MY MEDIEVAL LIFE
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+This project idea my medieval life was brougt to life by my desire to not only learn web development but to also learn game development, i am an avid gamer so i thought it would be a good opportunity for me to combine two passions.
 
-In this section, you will include a few paragraphs providing an overview of your project.
-Essentially, this part is your "sales pitch".
+My medieval life hopes that it will give a good experience with a different type of game, it also aims for people to get in contact with new ideas to help further develop the game in the future with features that others may like to see.
 
-At this stage, you should have a name for your project so use it!
-Don't introduce the project as a "portfolio project" for the diploma.
+The intended audience for this project are as follows:
 
-In this section, describe what the project hopes to accomplish, who it is intended to target, and how it will be useful to the target audience.
+* Young adults
+* Adults that like games
+* Teen
+* anyone that likes games set in medieval times
 
 Consider adding a mockup image using the "Am I Responsive" website.
 Here's your deployed site as an example:
