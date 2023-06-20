@@ -36,19 +36,13 @@ I used [coolors.co](https://coolors.co/000000-ed1d23-219b54-66c08b-c39678-c4b0a3
 
 ### Typography
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+The reason i picked these fonts again was because I believe they give a professional and clean look to the site once used.
 
-Explain any fonts and icon libraries used, like Google Fonts and/or Font Awesome.
+- [Libre Baskerville](https://fonts.google.com/specimen/Libre+Baskerville?query=libre) was used for the main titles on each page and game titles.
 
-Consider adding a link to each font used, and the Font Awesome site if used (or similar icon library).
+- [Roboto](https://fonts.google.com/specimen/Roboto?query=robo) was used for the sub heading on the main page.
 
-Example:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-- [Montserrat](https://fonts.google.com/specimen/Montserrat) was used for the primary headers and titles.
-
-- [Lato](https://fonts.google.com/specimen/Lato) was used for all other secondary text.
+- [Montserrat](https://fonts.google.com/specimen/Montserrat) was used for the primary text throughout the site.
 
 - [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
 
