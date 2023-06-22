@@ -75,29 +75,29 @@ I've used [Affinity 2](https://affinity.serif.com/en-gb/) to design my site Mock
 
 | Size | Screenshot |
 | --- | --- |
-| Mobile | ![screenshot](documentation/readme/mobile_home.jpg) |
-| Desktop | ![screenshot](documentation/readme/home-screen.jpg) |
+| Mobile | ![screenshot](documentation/readme/mockups/mobile_home.jpg) |
+| Desktop | ![screenshot](documentation/readme/mockups/home-screen.jpg) |
 
 ### How To Play Mockups
 
 | Size | Screenshot |
 | --- | --- |
-| Mobile | ![screenshot](documentation/readme/mobile_howtoplay.jpg) |
-| Desktop | ![screenshot](documentation/readme/how-to-play.jpg) |
+| Mobile | ![screenshot](documentation/readme/mockups/mobile_howtoplay.jpg) |
+| Desktop | ![screenshot](documentation/readme/mockups/how-to-play.jpg) |
 
 ### Game Screen Mockups
 
 | Size | Screenshot |
 | --- | --- |
-| Mobile | ![screenshot](documentation/readme/mobile_gamescreen.jpg) |
-| Desktop | ![screenshot](documentation/readme/gamescreen.jpg) |
+| Mobile | ![screenshot](documentation/readme/mockups/mobile_gamescreen.jpg) |
+| Desktop | ![screenshot](documentation/readme/mockups/gamescreen.jpg) |
 
 ### Contact Page Mockups
 
 | Size | Screenshot |
 | --- | --- |
-| Mobile | ![screenshot](documentation/readme/mobile_contact.jpg) |
-| Desktop | ![screenshot](documentation/readme/contact.jpg) |
+| Mobile | ![screenshot](documentation/readme/mockups/mobile_contact.jpg) |
+| Desktop | ![screenshot](documentation/readme/mockups/contact.jpg) |
 
 ## Features
 
