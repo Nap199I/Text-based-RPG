@@ -101,48 +101,32 @@ I've used [Affinity 2](https://affinity.serif.com/en-gb/) to design my site Mock
 
 ## Features
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+The website consists of the following pages:  
+* Home page
+* How to play - part of the home page
+* Game page
+* contact page 
+* confirmation page 
 
-In this section, you should go over the different parts of your project,
-and describe each in a sentence or so.
-
-You will need to explain what value each of the features provides for the user,
-focusing on who this website is for, what it is that they want to achieve,
-and how your project is the best way to help them achieve these things.
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-IMPORTANT: Remember to always include a screenshot of each individual feature!
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+There will be a breakdown of each pages features in order below
 
 ### Existing Features
 
-- **Title for feature #1**
+- **Feature #1 - Nav bar**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - The nav bar is a helpful navigation feature displayed clearly at the top of each page to give the user easy navigation controls for the site, this benefits the site because it makes all areas easily accessible, the nav bar items also change their position as the screen gets smaller and finally when you hover over an element of the nav bar it gives the user clear feedback as seen in the screenshots below.
 
-![screenshot](documentation/feature01.png)
+Nav bar large screen
 
-- **Title for feature #2**
+![screenshot](documentation/readme/features/nav-bar.png)
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+Nav bar with how to play hovered over
 
-![screenshot](documentation/feature02.png)
+![screenshot](documentation/readme/features/nav-howtoplay-hover.png)
 
-- **Title for feature #3**
+Small screen nav bar
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
-
-![screenshot](documentation/feature03.png)
-
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-Repeat as necessary for as many features as your site contains.
-
-Hint: the more, the merrier!
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+![screenshot](documentation/readme/features/smallscreen-nav.png)
 
 ### Future Features
 
