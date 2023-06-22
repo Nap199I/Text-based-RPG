@@ -67,48 +67,37 @@ To help with this section, what I planned for the site admin goals and different
 - As a site administrator, I should be able to access the page code, so that I can update and add new content.
 - As a site administrator, I should be able to recieve and answer queries by email, so that I can assist anyone with any questions or ideas.
 
-## Wireframes
+## Mockups
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+I've used [Affinity 2](https://affinity.serif.com/en-gb/) to design my site Mockups, I own the software but the link will take you to their site.
 
-In this section, display your wireframe screenshots using a Markdown `table`.
-
-Instructions on how to do Markdown `tables` start on line #213 on this site: https://pandao.github.io/editor.md/en.html
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.
-I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
-
-### Home Page Wireframes
+### Home Page Mockups
 
 | Size | Screenshot |
 | --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-home.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-home.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-home.png) |
+| Mobile | ![screenshot](documentation/readme/mobile_home.jpg) |
+| Desktop | ![screenshot](documentation/readme/home-screen.jpg) |
 
-### About Page Wireframes
-
-| Size | Screenshot |
-| --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-about.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-about.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-about.png) |
-
-### Contact Page Wireframes
+### How To Play Mockups
 
 | Size | Screenshot |
 | --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-contact.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-contact.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-contact.png) |
+| Mobile | ![screenshot](documentation/readme/mobile_howtoplay.jpg) |
+| Desktop | ![screenshot](documentation/readme/how-to-play.jpg) |
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+### Game Screen Mockups
 
-Repeat for any addition wireframe pages you have.
+| Size | Screenshot |
+| --- | --- |
+| Mobile | ![screenshot](documentation/readme/mobile_gamescreen.jpg) |
+| Desktop | ![screenshot](documentation/readme/gamescreen.jpg) |
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+### Contact Page Mockups
+
+| Size | Screenshot |
+| --- | --- |
+| Mobile | ![screenshot](documentation/readme/mobile_contact.jpg) |
+| Desktop | ![screenshot](documentation/readme/contact.jpg) |
 
 ## Features
 
