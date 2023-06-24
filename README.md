@@ -128,6 +128,24 @@ Small screen nav bar
 
 ![screenshot](documentation/readme/features/smallscreen-nav.png)
 
+- **Feature #2 hero image, title and start button on home page**
+
+    - Here we have a nice hero image displaying a medieval castle whith a clear concise title making sure the user knows where they are and what the site is about, there is also a large start button ensuring users know how to start the game therefore benefiting the users experience and the sites usability.
+
+![screenshot](documentation/readme/features/homepage.png)
+
+- **Feature #3 footer icons**
+
+    - The footer icons are part of the footer which lets the user know that they have come to the end of the page, the icons themselfs are links to social medias for if they wish to connect in other ways with the site, once the icons have been hovered over they give a feedback to let the user know that they are hovering and the site is registering their movements giving them feedback for a good user experience which also benefits the sites usability and credability.
+
+This is the regular footer with the social icons displayed:  
+
+![screenshot](documentation/readme/features/reg-footer.png)  
+
+This is the footer with the hover effect applied so you can see the feedback the user would get when they hover, the effect is applied to the facebook icon on the left:  
+
+![screenshot](documentation/readme/features/footersocialhover.png)
+
 ### Future Features
 
 ⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
