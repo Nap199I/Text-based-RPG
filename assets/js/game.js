@@ -193,15 +193,15 @@ const textNodes = [
             },
             {
                 text: "Go out on your own (start your own business).",
-                nextText: 21
+                nextText: 20
             },
             {
                 text: "Decline the offer as you are happy just working the forge.",
-                nextText: 22
+                nextText: 20
             },
             {
                 text: "Quit!",
-                nextText: 23
+                nextText: 20
             }
         ]
     },
@@ -212,27 +212,27 @@ const textNodes = [
         options: [
             {
                 text: "Pretend to be just visiting.",
-                nextText: 24
+                nextText: 20
             },
             {
                 text: "HIDE!",
-                nextText: 25
+                nextText: 20
             },
             {
                 text: "Demand to know why the customer is poking around the back?",
-                nextText: 26
+                nextText: 20
             },
             {
                 text: "shout 'THIEF!'",
-                nextText: 27
+                nextText: 20
             },
             {
                 text: "Pick up a nearby sword and kill them!",
-                nextText: 28
+                nextText: 20
             },
             {
                 text: "The time for hiding is over, come out and tell everyone that your the reason for the shops new reputation.",
-                nextText: 29
+                nextText: 20
             }
         ]
     },
@@ -254,27 +254,27 @@ const textNodes = [
         options: [
             {
                 text: "Say ‘yes sir’ and report to the duty watchman",
-                nextText: 24
+                nextText: 20
             },
             {
                 text: "Tell him that just being a watchman is beneath you",
-                nextText: 25
+                nextText: 20
             },
             {
                 text: "Ask him to do combat training instead",
-                nextText: 26
+                nextText: 20
             },
             {
                 text: "Tell him that there has been a mistake you are not here to be a watchman",
-                nextText: 27
+                nextText: 20
             },
             {
                 text: "Ask for a premotion",
-                nextText: 28
+                nextText: 20
             },
             {
                 text: "Challenge him to a fight to show off your skills",
-                nextText: 29
+                nextText: 20
             }
         ]
     },
@@ -285,27 +285,27 @@ const textNodes = [
         options: [
             {
                 text: "Pretend to be just visiting.",
-                nextText: 24
+                nextText: 20
             },
             {
                 text: "HIDE!",
-                nextText: 25
+                nextText: 20
             },
             {
                 text: "Demand to know why the customer is poking around the back?",
-                nextText: 26
+                nextText: 20
             },
             {
                 text: "shout 'THIEF!'",
-                nextText: 27
+                nextText: 20
             },
             {
                 text: "Pick up a nearby sword and kill them!",
-                nextText: 28
+                nextText: 20
             },
             {
                 text: "The time for hiding is over, come out and tell everyone that your the reason for the shops new reputation.",
-                nextText: 29
+                nextText: 20
             }
         ]
     },
@@ -316,23 +316,23 @@ const textNodes = [
         options: [
             {
                 text: "Quit!",
-                nextText: 24
+                nextText: 20
             },
             {
                 text: "Kill him!",
-                nextText: 25
+                nextText: 20
             },
             {
                 text: "Ask why he accepted if he wasn’t going to teach you?",
-                nextText: 26
+                nextText: 20
             },
             {
                 text: "Sabotage his business",
-                nextText: 27
+                nextText: 20
             },
             {
                 text: "Tell your father",
-                nextText: 28
+                nextText: 20
             },
         ]
     },
@@ -343,19 +343,19 @@ const textNodes = [
         options: [
             {
                 text: "Go back to your parents and apologise",
-                nextText: 24
+                nextText: 20
             },
             {
                 text: "Find somewhere to sleep for the night",
-                nextText: 25
+                nextText: 20
             },
             {
                 text: "Continue looking into the night",
-                nextText: 26
+                nextText: 20
             },
             {
                 text: "Head to the next kingdom",
-                nextText: 27
+                nextText: 20
             },
         ]
     },
@@ -366,19 +366,19 @@ const textNodes = [
         options: [
             {
                 text: "Enforce your authority, demand respect and reprimand anyone that disobeys",
-                nextText: 24
+                nextText: 20
             },
             {
                 text: "Throw a party to get to know your men",
-                nextText: 25
+                nextText: 20
             },
             {
                 text: "Talk your father into a training exercise for bonding",
-                nextText: 26
+                nextText: 20
             },
             {
                 text: "Quit as this isnt what i wanted",
-                nextText: 27
+                nextText: 20
             },
         ]
     },
@@ -422,27 +422,27 @@ const textNodes = [
         options: [
             {
                 text: "Pretend to be just visiting.",
-                nextText: 24
+                nextText: 20
             },
             {
                 text: "HIDE!",
-                nextText: 25
+                nextText: 20
             },
             {
                 text: "Demand to know why the customer is poking around the back?",
-                nextText: 26
+                nextText: 20
             },
             {
                 text: "shout 'THIEF!'",
-                nextText: 27
+                nextText: 20
             },
             {
                 text: "Pick up a nearby sword and kill them!",
-                nextText: 28
+                nextText: 20
             },
             {
                 text: "The time for hiding is over, come out and tell everyone that your the reason for the shops new reputation.",
-                nextText: 29
+                nextText: 20
             }
         ]
     },
@@ -453,30 +453,41 @@ const textNodes = [
         options: [
             {
                 text: "Pretend to be just visiting.",
-                nextText: 24
+                nextText: 20
             },
             {
                 text: "HIDE!",
-                nextText: 25
+                nextText: 20
             },
             {
                 text: "Demand to know why the customer is poking around the back?",
-                nextText: 26
+                nextText: 20
             },
             {
                 text: "shout 'THIEF!'",
-                nextText: 27
+                nextText: 20
             },
             {
                 text: "Pick up a nearby sword and kill them!",
-                nextText: 28
+                nextText: 20
             },
             {
                 text: "The time for hiding is over, come out and tell everyone that your the reason for the shops new reputation.",
-                nextText: 29
+                nextText: 20
             }
         ]
     },
+    {
+        id: 20,
+        title: "Early termination",
+        text: "Thank you for coming as far as you have, I hope to have more content added soon, for now please feel free to restart and try out the other life options.",
+        options: [
+            {
+                text: "Restart",
+                nextText: -1
+            }
+        ]
+    }
 ]
 
 startGame()
