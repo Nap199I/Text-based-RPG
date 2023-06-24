@@ -180,6 +180,24 @@ The submit button disabled:
 
 ![screenshot](documentation/readme/features/submit-dis.png)
 
+- **Feature #6 confirmation**
+
+    - The confirmation of submission page is a nice feature for a good user experience, letting the user know that the submission has been successful, how long is needed before they get a response and helping them get back to the main site automatically or through a link.
+
+![screenshot](documentation/readme/features/confirmation.png)  
+
+- **Feature #7 confirmation automatic redirect**
+
+    - The automatic redirect is a good feature for user experience again due to the message being displayed and the user not having to do anything to get back to the main site.
+
+![screenshot](documentation/readme/features/auto-redirect-code.jpg)
+
+- **Feature #8 automatic ten second countdown**
+
+    - The automatic countdown is a good feature for user experience again due to the message being displayed and the user being able to see how long there is until their redirect so they can see that the function is working, to see this in action for yourself I have included a link to the [confirmation-page](https://nap199i.github.io/Text-based-RPG/confirmation.html).
+
+![screenshot](documentation/readme/features/countdown-code.jpg)
+
 ### Future Features
 
 ⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
