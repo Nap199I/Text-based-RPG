@@ -146,6 +146,40 @@ This is the footer with the hover effect applied so you can see the feedback the
 
 ![screenshot](documentation/readme/features/footersocialhover.png)
 
+- **Feature #4 how to play**
+
+    - The how to play section is not its own page this is an off canvas box that enters and exits the screen on the left hand side, on mobile it covers the entire screen.
+    This has been kept to plain black text on a white background for ease of readability and to be kept simple so as not to overwhelm any user.
+    The how to play has a close button with the normal fearutes as the others as outlined in the above features, this is the only aspect that has not been kept to black and white.
+
+This is the how to play window once opened:  
+
+![screenshot](documentation/readme/features/howtoplay.png)
+
+- **Feature #5 contact form**
+
+    - On the contact form we have the contact header as a call to action, I have set the name, email and message to required so we know who is getting in contact, a way to contact them back to answer the query and the message so there is something to answer. Finally I set the submit button to give feedback on hover as all the others on the site, I also set the submit button to disable once the message has been successfully sent as it takes a couple of seconds for the site to process the api request and act accordingly, this all benefits the user so they dont accidentally send the query unfinished and so they know the site is registering their movements for a good user experience, it benefits the site so there is not incomplete messages sent.  
+
+The full contact form:  
+
+![screenshot](documentation/readme/features/full-contact.png)
+
+The name required showing:  
+
+![screenshot](documentation/readme/features/name-required.png)
+
+The email required showing:  
+
+![screenshot](documentation/readme/features/email-req.png)
+
+The message required showing:  
+
+![screenshot](documentation/readme/features/message-req.png)
+
+The submit button disabled:  
+
+![screenshot](documentation/readme/features/submit-dis.png)
+
 ### Future Features
 
 ⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
