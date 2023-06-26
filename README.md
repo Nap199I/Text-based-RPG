@@ -209,9 +209,11 @@ screenshot of two different titles:
 ![screenshot](documentation/readme/features/gametitle2.png)
 
 Screenshot of the black text on white background:
+
 ![screenshot](documentation/readme/features/gametext.png)
 
 Screenshot of the game buttons:
+
 ![screenshot](documentation/readme/features/gamebuttonexample.png)
 
 ### Future Features
