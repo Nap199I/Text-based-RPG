@@ -126,7 +126,11 @@ h2.home-subtitle.home-head {
     text-shadow: -1px -1px 1px #fff, 1px -1px 1px #fff, -1px 1px 1px #fff, 1px 1px 1px #fff;
 }
 
-p.s-button {
+a.btn.start-btn {
+    width: 26%;
+}
+
+a.s-button {
     font-size: 180%;
     padding: 5px 30px;
 }
