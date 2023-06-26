@@ -1,3 +1,4 @@
+/* jshint esversion: 11 */
 const textElement = document.getElementById("text")
 const titleElement = document.getElementById("game")
 const optionButtonsElement = document.getElementById("option-buttons")

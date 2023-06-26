@@ -1,3 +1,4 @@
+/* jshint esversion: 11 */
 function sendMail(contactForm) {
     let submitBtn = document.getElementById("contact-submit");
     submitBtn.disabled = true;
