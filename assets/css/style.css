@@ -63,7 +63,7 @@ div.container.buttons {
     width: auto;
 }
 
-button.btn {
+button.btn, .btn {
     margin: 5px;
     background-color: #219b54;
     color: #000;
@@ -71,7 +71,7 @@ button.btn {
     text-shadow: -1px -1px 1px #fff, 1px -1px 1px #fff, -1px 1px 1px #fff, 1px 1px 1px #fff;
 }
 
-button.btn:hover {
+button.btn:hover, .btn:hover {
     background-color: #66c08b;
     color: #000000;
 }
