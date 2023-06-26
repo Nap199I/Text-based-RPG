@@ -325,6 +325,7 @@ I will show here where I got my media files from that I used in the site.
 | [Pexels](https://www.pexels.com/photo/gray-concrete-triumphal-arch-surrounded-by-flowers-1055068/) | game-screen-image | image | the image used for the background of the game screen |
 | [Pexels](https://www.pexels.com/photo/empty-brown-canvas-235985/) | contact background | image | the image used for the background of the contact screen |
 | [Pexels](https://www.pexels.com/photo/the-castle-of-titchfield-abbey-in-hampshire-england-10936656/) | index background | image | the image used for the background of the home screen |
+| [freeimages](https://www.freeimages.com/photo/envelope-1152634) | confirmation background | image | the image used for the background of the confirmation screen |
 | [Affinity 2](https://affinity.serif.com/en-gb/?gclid=Cj0KCQjw7uSkBhDGARIsAMCZNJuW4qSXWCA2iWsPBFoGvGVFAanmh6130lp4ZDYsUxmpBlNFocahHosaAhlbEALw_wcB) | entire site | Logo image | I created the logo image on affinity 2 |
 | [TinyPNG](https://tinypng.com) | entire site | image | tool for image compression |
 | [compresspng](https://compresspng.com/) | entire site | image | tool for larger file image compression |
