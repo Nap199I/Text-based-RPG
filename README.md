@@ -198,6 +198,22 @@ The submit button disabled:
 
 ![screenshot](documentation/readme/features/countdown-code.jpg)
 
+- **Feature #9 The game**
+
+    - The game has a different title for every selection which has to do with the path the user has taken, this reinforces the choice they made helping for a good user experience, the main text is black text on a white background to help readability and the buttons for the choices give the same feedback as every other button on the site as featured above.
+
+screenshot of two different titles:
+
+![screenshot](documentation/readme/features/gametitle.png)
+
+![screenshot](documentation/readme/features/gametitle2.png)
+
+Screenshot of the black text on white background:
+![screenshot](documentation/readme/features/gametext.png)
+
+Screenshot of the game buttons:
+![screenshot](documentation/readme/features/gamebuttonexample.png)
+
 ### Future Features
 
 ⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
