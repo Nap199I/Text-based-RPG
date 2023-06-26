@@ -216,21 +216,20 @@ Screenshot of the game buttons:
 
 ### Future Features
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+For future features I do have a couple if ideas that I will list below, these havent been implemented yet for a few reasons, these being:  
+* viability
+* lack of knowledge / skill
+* keeping the site simple for release
 
-Do you have additional ideas that you'd like to include on your project in the future?
-Fantastic! List them here!
-It's always great to have plans for future improvements!
-Consider adding any helpful links or notes to help remind you in the future, if you revisit the project in a couple years.
+- feature #1 a login specific for each user so a sign up / in page
+    - If I can implement a login the game could then have a list of members which ties into another future feature, this was not implemented due to my lack of skill and knowledge in this area. 
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+- feature #2 a function for the game to remember each users specific progress
+    - If I can implement this feature I think I would need a login so the site could recall specific user progress, this was not implemented due to my lack of skill and knowledge in this area. 
 
-- Title for future feature #1
-    - Any additional notes about this feature.
-- Title for future feature #2
-    - Any additional notes about this feature.
-- Title for future feature #3
-    - Any additional notes about this feature.
+- feature #3 expand the game from just a story to having items shops fights, life bars and experience bars.
+    - Once I have finished off each story path to the end I would like to implement other features like buying and selling items to shops, a life bar for fights and an experience bar for players leveling up their character, this was not implemented due to my lack of skill and knowledge in this area. 
+
 
 ## Tools & Technologies Used
 
