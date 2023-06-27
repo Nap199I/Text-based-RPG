@@ -116,6 +116,7 @@ section div.home-content {
 
 h1.home-title.home-head {
     margin-bottom: 15%;
+    font-size: x-large;
     color: #000;
     text-shadow: -1px -1px 1px #fff, 1px -1px 1px #fff, -1px 1px 1px #fff, 1px 1px 1px #fff;
 }
@@ -127,7 +128,7 @@ h2.home-subtitle.home-head {
 }
 
 a.btn.start-btn {
-    width: 26%;
+    width: 50%;
 }
 
 a.s-button {
@@ -274,6 +275,13 @@ div a i.fa-brands {
 
     input#formInput1 {
         width: 50vw;
+    }
+
+    h1.home-title.home-head {
+        margin-bottom: 15%;
+        font-size: 270%;
+        color: #000;
+        text-shadow: -1px -1px 1px #fff, 1px -1px 1px #fff, -1px 1px 1px #fff, 1px 1px 1px #fff;
     }
 
 }
