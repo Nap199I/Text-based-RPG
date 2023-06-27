@@ -15,30 +15,17 @@ I will not validate external libraries/frameworks, such as imported Bootstrap, F
 
 I have used the recommended [HTML W3C Validator](https://validator.w3.org) to validate all of my HTML files.
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-- If you are copying/pasting your HTML code, use this link: https://validator.w3.org/#validate_by_input
-- (*recommended*) If you are using the live deployed site pages, use this link: https://validator.w3.org/#validate_by_uri
-
-It's recommended to validate the live pages (each of them) using the deployed URL.
-This will give you a custom URL as well, which you can use on your testing documentation.
+I validated the live pages (each of them) using the deployed URL.
+This will give me a custom URL as well, which I will use on my testing documentation.
 It makes it easier to return back to a page to validate it again in the future.
-The URL will look something like this:
-
-- https://validator.w3.org/nu/?doc=https%3A%2F%2FNap199I.github.io%2FText-based-RPG%2Findex.html
-
-Sample HTML code validation documentation (tables are extremely helpful!):
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 | Page | W3C URL | Screenshot | Notes |
 | --- | --- | --- | --- |
-| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FNap199I.github.io%2FText-based-RPG%2Findex.html) | ![screenshot](documentation/html-validation-home.png) | Section lacks header h2-h6 warning |
-| Contact | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FNap199I.github.io%2FText-based-RPG%2Fcontact.html) | ![screenshot](documentation/html-validation-contact.png) | obsolete iframe warnings |
-| Quiz | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FNap199I.github.io%2FText-based-RPG%2Fquiz.html) | ![screenshot](documentation/html-validation-quiz.png) | Pass: No Errors |
-| Add Blog | n/a | ![screenshot](documentation/html-validation-add-blog.png) | Duplicate IDs found, and fixed |
-| Checkout | n/a | ![screenshot](documentation/html-validation-checkout.png) | Pass: No Errors |
-| x | x | x | repeat for all remaining HTML files |
+| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fnap199i.github.io%2FText-based-RPG%2F) | ![screenshot](documentation/testing/htmlvalidator-home.jpg) | Pass: No Errors |
+| Contact | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fnap199i.github.io%2FText-based-RPG%2Fcontact.html) | ![screenshot](documentation/testing/htmlvalidator-contact.jpg) | Pass: No Errors |
+| Game | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fnap199i.github.io%2FText-based-RPG%2Fgame.html) | ![screenshot](documentation/testing/htmlvalidator-game.jpg) | Pass: No Errors |
+| confirmation | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fnap199i.github.io%2FText-based-RPG%2Fconfirmation.html) | ![screenshot](documentation/testing/htmlvalidator-confirmation.jpg) | Pass: No Errors |
+
 
 ### CSS
 
