@@ -88,34 +88,22 @@ I've tested my deployed project on devices and DevTools screen sizes to check fo
 
 ## Lighthouse Audit
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+Here i will discuss testing the live/deployed site's Lighthouse Audit reports.
 
-Use this space to discuss testing the live/deployed site's Lighthouse Audit reports.
-Avoid testing the local version (especially if developing in Gitpod), as this can have knock-on effects of performance.
+Lighthouse testing documentation:
 
-If you don't have Lighthouse in your Developer Tools,
-it can be added as an [extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk).
-
-Don't just test the home page (unless it's a single-page application).
-Make sure to test the Lighthouse Audit results for all of your pages.
-
-**IMPORTANT**: You must provide screenshots of the results, to "prove" that you've actually tested them.
-
-Sample Lighthouse testing documentation:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-I've tested my deployed project using the Lighthouse Audit tool to check for any major issues.
+I've tested my deployed project using the Lighthouse Audit tool for all of my pages to check for any major issues.
 
 | Page | Size | Screenshot | Notes |
 | --- | --- | --- | --- |
-| Home | Mobile | ![screenshot](documentation/lighthouse-home-mobile.png) | Some minor warnings |
-| Home | Desktop | ![screenshot](documentation/lighthouse-home-desktop.png) | Few warnings |
-| About | Mobile | ![screenshot](documentation/lighthouse-about-mobile.png) | Some minor warnings |
-| About | Desktop | ![screenshot](documentation/lighthouse-about-desktop.png) | Few warnings |
-| Gallery | Mobile | ![screenshot](documentation/lighthouse-gallery-mobile.png) | Slow response time due to large images |
-| Gallery | Desktop | ![screenshot](documentation/lighthouse-gallery-desktop.png) | Slow response time due to large images |
-| x | x | x | repeat for any other tested pages/sizes |
+| Home | Mobile | ![screenshot](documentation/testing/lighthouse-indexmobile.jpg) | Some warnings due to large images |
+| Home | Desktop | ![screenshot](documentation/testing/lighthouse-index.jpg) | Some warnings due to large images |
+| contact | Mobile | ![screenshot](documentation/testing/lighthouse-contactmobile.jpg) | Some warnings due to large images |
+| contact | Desktop | ![screenshot](documentation/testing/lighthouse-contact.jpg) | Few warnings |
+| game | Mobile | ![screenshot](documentation/testing/lighthouse-gamemobile.jpg) | Some warnings due to large images |
+| game | Desktop | ![screenshot](documentation/testing/lighthouse-game.jpg) | Some warnings due to large images |
+| confirmation | Mobile | ![screenshot](documentation/testing/lighthouse-confirmationmobile.jpg) | Some minor warnings |
+| confirmation | Desktop | ![screenshot](documentation/testing/lighthouse-confirmation.jpg) | Some minor warnings |
 
 ## Defensive Programming
 
