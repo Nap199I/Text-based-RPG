@@ -69,39 +69,22 @@ I've tested my deployed project on multiple browsers to check for compatibility 
 
 ## Responsiveness
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+Here i will discuss testing the live/deployed site on various device sizes and screen sizes.
 
-Use this space to discuss testing the live/deployed site on various device sizes.
+Responsiveness testing documentation:
 
-The minimum requirement is for the following 3 tests:
-- Mobile
-- Tablet
-- Desktop
-
-**IMPORTANT**: You must provide screenshots of the tested responsiveness, to "prove" that you've actually tested them.
-
-Using the "amiresponsive" mockup image (or similar) does not suffice the requirements.
-Consider using some of the built-in device sizes in the Developer Tools.
-
-If you have tested the project on your actual mobile phone or tablet, consider also including screenshots of these as well.
-It showcases a higher level of manual tests, and can be seen as a positive inclusion!
-
-Sample responsiveness testing documentation:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-I've tested my deployed project on multiple devices to check for responsiveness issues.
+I've tested my deployed project on devices and DevTools screen sizes to check for responsiveness issues.
 
 | Device | Screenshot | Notes |
 | --- | --- | --- |
-| Mobile (DevTools) | ![screenshot](documentation/responsive-mobile.png) | Works as expected |
-| Tablet (DevTools) | ![screenshot](documentation/responsive-tablet.png) | Works as expected |
-| Desktop | ![screenshot](documentation/responsive-desktop.png) | Works as expected |
-| XL Monitor | ![screenshot](documentation/responsive-xl.png) | Scaling starts to have minor issues |
-| 4K Monitor | ![screenshot](documentation/responsive-4k.png) | Noticeable scaling issues |
-| Google Pixel 7 Pro | ![screenshot](documentation/responsive-pixel.png) | Works as expected |
-| iPhone 14 | ![screenshot](documentation/responsive-iphone.png) | Works as expected |
-| x | x | repeat for any other tested sizes |
+| Mobile small (DevTools) | ![screenshot](documentation/testing/mobile-small.jpg) | Works as expected |
+| Mobile medium (DevTools) | ![screenshot](documentation/testing/mobile-m.jpg) | Works as expected |
+| Mobile large (DevTools) | ![screenshot](documentation/testing/mobile-l.jpg) | Works as expected |
+| Tablet (DevTools) | ![screenshot](documentation/testing/tablet.jpg) | Works as expected |
+| laptop (DevTools) | ![screenshot](documentation/testing/laptop.jpg) | Works as expected |
+| laptop large (DevTools) | ![screenshot](documentation/testing/laptop-l.jpg) | Works as expected |
+| Desktop | ![screenshot](documentation/testing/desktop.jpg) | Works as expected |
+| 4K Monitor (DevTools) | ![screenshot](documentation/testing/4k.jpg) | Works as expected |
 
 ## Lighthouse Audit
 
