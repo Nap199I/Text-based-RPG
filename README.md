@@ -248,6 +248,7 @@ In this section, I have listed all tools and technologies used to develop the si
 - [Gitpod](https://gitpod.io) used as a cloud-based IDE for development.
 - [Markdown Builder by Tim Nelson](https://traveltimn.github.io/markdown-builder/) used to help generate the Markdown files.
 - [JavaScript](https://www.javascript.com) used for user interaction on the site.
+- [Jest](https://jestjs.io/) attempted to use for some testing on the site.
 
 ## Testing
 
