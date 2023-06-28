@@ -1,0 +1,14 @@
+{
+  "name": "text-based-rpg",
+  "version": "1.0.0",
+  "description": "This project idea my medieval life was brougt to life by my desire to not only learn web development but to also learn game development, i am an avid gamer so i thought it would be a good opportunity for me to combine two passions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}

@@ -10,3 +10,7 @@ var Timer = setInterval(function(){
   }
   timeleft -= 1;
 }, 1000);
+
+if (typeof module !== "undefined") module.exports = {
+  function1, function2, function3
+};
