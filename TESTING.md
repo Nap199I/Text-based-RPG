@@ -225,14 +225,7 @@ Below are the results from the tests that I've written for this application:
 
 #### Jest Test Issues
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-Use this section to list any known issues you ran into while writing your Jest tests.
-Remember to include screenshots (where possible), and a solution to the issue (if known).
-
-This can be used for both "fixed" and "unresolved" issues.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+I have currently not been able to advance the countdown timer on confirmation.html to get the test to pass.
 
 ## Bugs
 
