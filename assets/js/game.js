@@ -1,4 +1,5 @@
 /* jshint esversion: 11 */
+// I watched a youtube tutorial by web dev simplified that helped me with this code i added my own code for the titles and on the advice of my mentor i put the textNode data in a seperate file
 const textElement = document.getElementById("text");
 const titleElement = document.getElementById("game");
 const optionButtonsElement = document.getElementById("option-buttons");
