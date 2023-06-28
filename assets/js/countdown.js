@@ -12,5 +12,5 @@ var Timer = setInterval(function(){
 }, 1000);
 
 if (typeof module !== "undefined") module.exports = {
-  function1, function2, function3
+  setInterval, timeleft
 };
