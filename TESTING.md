@@ -236,125 +236,21 @@ This can be used for both "fixed" and "unresolved" issues.
 
 ## Bugs
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+The first bug was a fav icon error that was showing as I had not set a fav icon for my pages:  
+I fixed this bug by adding the code `<link rel="shortcut icon" href="assets/images/logo-snip-min.jpg" type="image/x-icon">` to the head element of each page which gave my page's a fav icon and fixed the error.  
+  
+The second bug was once I had gotten the nav and footer how I wanted it I checked the contrast in the dev tools to make sure it was ok, it was not so I fixed this by changing the text colour to black and making the buttons in the nav bar a lighter shade of green  
 
-It's very important to document any bugs you've discovered while developing the project.
-Make sure to include any necessary steps you've implemented to fix the bug(s) as well.
+The third bug I came across was an issue getting a button to automatically disable on the contact form after being clicked, I was writing the js outside the function when it needed to be inside this was fixed with the help of tim my mentor. 
 
-For JavaScript and Python applications, it's best to screenshot the errors to include them as well.
+The fourth bug was within the game.js file the function to remove and replace the buttons was not working, the issue was on line 2 of the game.js file I had the wrong id, I had written option-button instead of option-buttons
 
-**PRO TIP**: screenshots of bugs are extremely helpful, and go a long way!
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-- JS Uncaught ReferenceError: `foobar` is undefined/not defined
-
-    ![screenshot](documentation/bug01.png)
-
-    - To fix this, I _____________________.
-
-- JS `'let'` or `'const'` or `'template literal syntax'` or `'arrow function syntax (=>)'` is available in ES6 (use `'esversion: 11'`) or Mozilla JS extensions (use moz).
-
-    ![screenshot](documentation/bug02.png)
-
-    - To fix this, I _____________________.
-
-- Python `'ModuleNotFoundError'` when trying to import module from imported package
-
-    ![screenshot](documentation/bug03.png)
-
-    - To fix this, I _____________________.
-
-- Django `TemplateDoesNotExist` at /appname/path appname/template_name.html
-
-    ![screenshot](documentation/bug04.png)
-
-    - To fix this, I _____________________.
-
-- Python `E501 line too long` (93 > 79 characters)
-
-    ![screenshot](documentation/bug04.png)
-
-    - To fix this, I _____________________.
-
-### GitHub **Issues**
-
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-An improved way to manage bugs is to use the built-in **Issues** tracker on your GitHub repository.
-To access your Issues, click on the "Issues" tab at the top of your repository.
-Alternatively, use this link: https://github.com/Nap199I/Text-based-RPG/issues
-
-If using the Issues tracker for your bug management, you can simplify the documentation process.
-Issues allow you to directly paste screenshots into the issue without having to first save the screenshot locally,
-then uploading into your project.
-
-You can add labels to your issues (`bug`), assign yourself as the owner, and add comments/updates as you progress with fixing the issue(s).
-
-Once you've sorted the issue, you should then "Close" it.
-
-When showcasing your bug tracking for assessment, you can use the following format:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-**Fixed Bugs**
-
-All previously closed/fixed bugs can be tracked [here](https://github.com/Nap199I/Text-based-RPG/issues?q=is%3Aissue+is%3Aclosed).
-
-| Bug | Status |
-| --- | --- |
-| [JS Uncaught ReferenceError: `foobar` is undefined/not defined](https://github.com/Nap199I/Text-based-RPG/issues/1) | Closed |
-| [Python `'ModuleNotFoundError'` when trying to import module from imported package](https://github.com/Nap199I/Text-based-RPG/issues/2) | Closed |
-| [Django `TemplateDoesNotExist` at /appname/path appname/template_name.html](https://github.com/Nap199I/Text-based-RPG/issues/3) | Closed |
+finally on the game page there was a part where the story and buttons go so large on mobile that it pushed above the nav bar and below the footer making you unable to read the text and showing white page below the footer, I fixed this by adding the max-height property to the game container on my style sheet.
 
 **Open Issues**
 
-Any remaining open issues can be tracked [here](https://github.com/Nap199I/Text-based-RPG/issues).
-
-| Bug | Status |
-| --- | --- |
-| [JS `'let'` or `'const'` or `'template literal syntax'` or `'arrow function syntax (=>)'` is available in ES6 (use `'esversion: 11'`) or Mozilla JS extensions (use moz).](https://github.com/Nap199I/Text-based-RPG/issues/4) | Open |
-| [Python `E501 line too long` (93 > 79 characters)](https://github.com/Nap199I/Text-based-RPG/issues/5) | Open |
+There are no open issues in my github.
 
 ## Unfixed Bugs
-
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-You will need to mention unfixed bugs and why they were not fixed.
-This section should include shortcomings of the frameworks or technologies used.
-Although time can be a big variable to consider, paucity of time and difficulty understanding
-implementation is not a valid reason to leave bugs unfixed.
-
-If you've identified any unfixed bugs, no matter how small, be sure to list them here.
-It's better to be honest and list them, because if it's not documented and an assessor finds the issue,
-they need to know whether or not you're aware of them as well, and why you've not corrected/fixed them.
-
-Some examples:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-- On devices smaller than 375px, the page starts to have `overflow-x` scrolling.
-
-    ![screenshot](documentation/unfixed-bug01.png)
-
-    - Attempted fix: I tried to add additional media queries to handle this, but things started becoming too small to read.
-
-- For PP3, when using a helper `clear()` function, any text above the height of the terminal does not clear, and remains when you scroll up.
-
-    ![screenshot](documentation/unfixed-bug02.png)
-
-    - Attempted fix: I tried to adjust the terminal size, but it only resizes the actual terminal, not the allowable area for text.
-
-- When validating HTML with a semantic `section` element, the validator warns about lacking a header `h2-h6`. This is acceptable.
-
-    ![screenshot](documentation/unfixed-bug03.png)
-
-    - Attempted fix: this is a known warning and acceptable, and my section doesn't require a header since it's dynamically added via JS.
-
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-If you legitimately cannot find any unfixed bugs or warnings, then use the following sentence:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 There are no remaining bugs that I am aware of.
