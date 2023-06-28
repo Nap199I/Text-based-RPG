@@ -134,28 +134,16 @@ Defensive programming was manually tested with the below user acceptance testing
 
 ## User Story Testing
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-Testing user stories is actually quite simple, once you've already got the stories defined on your README.
-
-Most of your project's **features** should already align with the **user stories**,
-so this should as simple as creating a table with the user story, matching with the re-used screenshot
-from the respective feature.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
 | User Story | Screenshot |
 | --- | --- |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature01.png) |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature02.png) |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature03.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature04.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature05.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature06.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature07.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature08.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature09.png) |
-| repeat for all remaining user stories | x |
+| As a new site user, I would like to know what the site is, so that I can make a decision on whether i want to continue to engage with the site. | ![screenshot](documentation/testing/user-whereyouare.jpg) |
+| As a new site user, I would like to know what I can do on the site, so that I can go and do it. | ![screenshot](documentation/testing/user-what.jpg) ![screenshot](documentation/testing/user-how.jpg) |
+| As a new site user, I would like to contact the administration, so that I can ask any questions I may have, report any bugs or give any ideas to help improve the site. | ![screenshot](documentation/testing/user-contact.jpg) |
+| As a new site user, I would like to find out how to play, so that I can play the game. | ![screenshot](documentation/testing/user-htpbutton.jpg) ![screenshot](documentation/testing/user-htpcontent.jpg) |
+| As a returning site user, I would like to find the game, so that I can play a different story line. | ![screenshot](documentation/testing/user-how.jpg) |
+| As a returning site user, I would like to contact the administration, so that I can ask any questions I may have, report any bugs or give any ideas to help improve the site. | ![screenshot](documentation/testing/user-contact.jpg) |
+| As a site administrator, I should be able to access the page code, so that I can update and add new content. | ![screenshot](documentation/testing/user-newcontentarea.jpg) |
+| As a site administrator, I should be able to recieve and answer queries by email, so that I can assist anyone with any questions or ideas. | ![screenshot](documentation/testing/user-contact.jpg) |
 
 ## Automated Testing
 
