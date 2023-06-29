@@ -1,4 +1,4 @@
-/* jshint esversion: 6 */
+/* jshint esversion: 11 */
 // this code was taken from a post on stack overflow and modified for my needs
 var timeleft = 10;
 var Timer = setInterval(function(){
