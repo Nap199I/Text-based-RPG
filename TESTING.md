@@ -47,7 +47,7 @@ JavaScript code validation documentation:
 | File | Screenshot | Notes |
 | --- | --- | --- |
 | countdown.js | ![screenshot](documentation/testing/jshint-countdowncode.jpg) | Pass: No Errors |
-| countdown.test.js | ![screenshot](documentation/testing/jshing-countdown.test.js.jpg) | two errors and six undefined |
+| countdown.test.js | ![screenshot](documentation/testing/jshing-countdown.test.js.jpg) | two warnings and six undefined |
 | data.js | ![screenshot](documentation/testing/jshint-datacode.jpg) | Unused variable from external game.js file |
 | game.js | ![screenshot](documentation/testing/jshint-gamecode.jpg) |  Unused variable from external data.js file |
 | sendEmail.js | ![screenshot](documentation/testing/jshing-emailcode.jpg) | Unused and undefined variable from external file |
