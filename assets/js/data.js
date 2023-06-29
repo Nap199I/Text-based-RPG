@@ -1,4 +1,4 @@
-/* jshint esversion: 11 */
+/* jshint esversion: 6 */
 const textNodes = [
     {
         id: 1,
