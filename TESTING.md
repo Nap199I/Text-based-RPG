@@ -160,7 +160,7 @@ In order to work with Jest, I first had to initialize NPM.
 Below are the results from the tests that I've written for this application:
 
 | Test Suites | Tests | Screenshot |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | 1 failed | 1 passed | ![screenshot](documentation/testing/jest-coverage.jpg) |
 
 #### Jest Test Issues
